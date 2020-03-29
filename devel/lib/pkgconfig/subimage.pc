@@ -1,0 +1,8 @@
+prefix=/home/bai/teleop_ws/devel
+
+Name: subimage
+Description: Description of subimage
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/bai/teleop_ws/devel/lib 
+Requires: 
